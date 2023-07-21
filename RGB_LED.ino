@@ -8,9 +8,9 @@ void setup()
     }
 // the loop function runs over and over again forever
 void loop()
-    {setColor(255, 0, 0); delay(1000);//red
-     setColor(0, 255, 0); delay(1000);//green
-     setColor(0, 0, 255); delay(1000);//blue
+    {setColor(255, 102, 178); delay(1000);//red
+     setColor(255, 255, 0); delay(1000);//green
+     setColor(0, 25, 51); delay(1000);//blue
     }
 
 void setColor(int red, int green, int blue)
